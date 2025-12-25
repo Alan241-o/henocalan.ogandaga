@@ -115,13 +115,3 @@
 </div>
 
 </div>
-
-
-
-🎉 Ton README est maintenant complet, propre, professionnel et visuellement premium.
-Si tu veux :
-- ajouter une bannière graphique en haut,
-- ajouter des badges techniques,
-- créer une version anglaise,
-- ou transformer ce README en CV PDF,
-je peux t’aider à le faire.
