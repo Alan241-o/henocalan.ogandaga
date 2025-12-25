@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Hénoc Alan OGANDAGA**
+# Bonjour, je suis **Hénoc Alan OGANDAGA**
 
 🎓 **Étudiant en BTS SIO — Option SISR (Solutions d’Infrastructure, Systèmes & Réseaux)**  
 📚 **Actuellement en deuxième année (2025–2026)**  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Étudiant en BTS SIO option SISR, je me forme aux infrastructures réseau, aux systèmes d’exploitation, à la cybersécurité et à l’administration de services informatiques.  
 J’aime comprendre comment les systèmes fonctionnent, comment les sécuriser et comment les optimiser pour garantir performance et fiabilité.
