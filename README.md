@@ -1,90 +1,127 @@
-<!-- DARK MODE STYLE -->
-<div style="background-color:#0d1117; padding: 30px; border-radius: 10px;">
+<div style="background-color:#0d1117; padding: 40px; border-radius: 12px; font-family: Arial, sans-serif;">
 
-<h1 style="color:#ffffff; font-weight:700;">Hénoc Alan OGANDAGA</h1>
-<h3 style="color:#9ca3af; font-weight:400;">Étudiant en BTS SIO — Option SISR (Solutions d’Infrastructure, Systèmes & Réseaux)</h3>
-<h4 style="color:#9ca3af; font-weight:400;">Deuxième année (2025–2026)</h4>
-<p style="color:#9ca3af;">Contact : <strong style="color:#ffffff;">henocogandaga@yahoo.com</strong></p>
+<!-- HEADER -->
+<div style="display:flex; align-items:center; gap:25px; margin-bottom:30px;">
+  <img src="https://raw.githubusercontent.com/Alan241-o/henocalan.ogandaga/refs/heads/main/Photo%20Henoc%20.jpeg" alt="Hénoc Alan Ogandaga" style="width:120px; height:120px; object-fit:cover; border-radius:50%; border:2px solid #ffffff;">
+  <div>
+    <h1 style="color:#ffffff; font-weight:700; margin-bottom:5px;">Hénoc Alan OGANDAGA</h1>
+    <p style="color:#9ca3af; font-size:16px; margin-top:0;">
+      Étudiant en BTS SIO — Option SISR (Solutions d’Infrastructure, Systèmes & Réseaux)<br>
+      Deuxième année (2025–2026)<br>
+      Contact : <strong style="color:#ffffff;">henocogandaga@yahoo.com</strong><br>
+      LinkedIn : <a href="https://www.linkedin.com/in/henoc-alan-ogandaga-19987b353" style="color:#3b82f6;">linkedin.com/in/henoc-alan-ogandaga</a>
+    </p>
+  </div>
+</div>
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
+<!-- PROFIL -->
+<div style="background:#11151c; padding:20px; border-radius:8px; border:1px solid #1f2937; margin-bottom:35px;">
+  <h2 style="color:#3b82f6;">Profil professionnel 🔧</h2>
+  <p style="color:#9ca3af; line-height:1.6;">
+    Étudiant en BTS SIO option SISR, spécialisé dans les infrastructures réseau, l’administration système et la cybersécurité.<br>
+    Je développe des compétences solides en analyse réseau, gestion des services informatiques et sécurisation d’environnements Windows et Linux.<br>
+    Mon objectif est de concevoir, maintenir et sécuriser des systèmes fiables et performants.
+  </p>
+</div>
 
-## <span style="color:#ffffff;">À propos de moi</span>
+<!-- COMPETENCES -->
+<div style="background:#11151c; padding:20px; border-radius:8px; border:1px solid #1f2937; margin-bottom:35px;">
+  <h2 style="color:#3b82f6;">Compétences techniques 🛠️</h2>
 
-<p style="color:#9ca3af;">
-Étudiant en BTS SIO option SISR, je me forme aux infrastructures réseau, aux systèmes d’exploitation, à la cybersécurité et à l’administration de services informatiques.  
-Je m'intéresse particulièrement à la compréhension, la sécurisation et l’optimisation des systèmes pour garantir performance et fiabilité.
-</p>
+  <div style="display:flex; gap:40px; flex-wrap:wrap;">
+    <div style="flex:1; min-width:250px;">
+      <h3 style="color:#ffffff;">Réseaux</h3>
+      <ul style="color:#9ca3af; line-height:1.6;">
+        <li>Analyse de trafic (Wireshark)</li>
+        <li>Configuration Cisco (switches, routeurs)</li>
+        <li>ACL : droits, permissions, filtrage</li>
+        <li>Conception d’architectures réseau simples</li>
+      </ul>
+    </div>
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
+    <div style="flex:1; min-width:250px;">
+      <h3 style="color:#ffffff;">Systèmes</h3>
+      <ul style="color:#9ca3af; line-height:1.6;">
+        <li>Active Directory : utilisateurs, groupes</li>
+        <li>Serveur de déploiement (WDS / VM)</li>
+        <li>Administration Windows Server</li>
+        <li>Linux : Debian, Kali</li>
+      </ul>
+    </div>
 
-## <span style="color:#ffffff;">Compétences techniques</span>
+    <div style="flex:1; min-width:250px;">
+      <h3 style="color:#ffffff;">Cybersécurité</h3>
+      <ul style="color:#9ca3af; line-height:1.6;">
+        <li>Notions fondamentales de cybersécurité</li>
+        <li>Analyse réseau</li>
+        <li>Outils Kali Linux</li>
+        <li>Sécurisation d’infrastructures simples</li>
+      </ul>
+    </div>
+  </div>
 
-### <span style="color:#ffffff;">Réseaux</span>
-- <span style="color:#9ca3af;">Analyse de trafic réseau avec Wireshark</span>  
-- <span style="color:#9ca3af;">Configuration de switches et routeurs (Cisco Packet Tracer)</span>  
-- <span style="color:#9ca3af;">Gestion des ACL (droits, permissions, filtrage)</span>  
-- <span style="color:#9ca3af;">Mise en place d’architectures réseau simples</span>
+  <h3 style="color:#ffffff; margin-top:25px;">Outils et environnements</h3>
+  <p style="color:#9ca3af;">
+    Cisco Packet Tracer • Wireshark • VirtualBox • VMware • Windows Server • Debian • Kali Linux • Pack Office
+  </p>
+</div>
 
-### <span style="color:#ffffff;">Systèmes</span>
-- <span style="color:#9ca3af;">Gestion des utilisateurs et groupes via Active Directory</span>  
-- <span style="color:#9ca3af;">Mise en place d’un serveur de déploiement (WDS / VM)</span>  
-- <span style="color:#9ca3af;">Administration Windows Server</span>  
-- <span style="color:#9ca3af;">Utilisation de systèmes Linux (Debian, Kali)</span>
+<!-- FORMATION -->
+<div style="background:#11151c; padding:20px; border-radius:8px; border:1px solid #1f2937; margin-bottom:35px;">
+  <h2 style="color:#3b82f6;">Formation 🎓</h2>
+  <p style="color:#9ca3af; line-height:1.6;">
+    <strong style="color:#ffffff;">BTS SIO — Option SISR (2024–2026)</strong><br>
+    Première année : 2024–2025<br>
+    Deuxième année : 2025–2026
+  </p>
+  <p style="color:#9ca3af; line-height:1.6;">
+    <strong style="color:#ffffff;">Baccalauréat Scientifique — Mention Assez Bien (2023–2024)</strong><br>
+    Fondation MBELE, Gabon
+  </p>
+</div>
 
-### <span style="color:#ffffff;">Cybersécurité</span>
-- <span style="color:#9ca3af;">Notions fondamentales de cybersécurité</span>  
-- <span style="color:#9ca3af;">Analyse réseau</span>  
-- <span style="color:#9ca3af;">Découverte des outils de pentest (Kali Linux)</span>  
-- <span style="color:#9ca3af;">Sécurisation d’infrastructures simples</span>
+<!-- PROJETS -->
+<div style="background:#11151c; padding:20px; border-radius:8px; border:1px solid #1f2937; margin-bottom:35px;">
+  <h2 style="color:#3b82f6;">Projets et réalisations</h2>
 
-### <span style="color:#ffffff;">Outils et environnements</span>
-- <span style="color:#9ca3af;">Cisco Packet Tracer</span>  
-- <span style="color:#9ca3af;">Wireshark</span>  
-- <span style="color:#9ca3af;">VirtualBox / VMware</span>  
-- <span style="color:#9ca3af;">Windows Server</span>  
-- <span style="color:#9ca3af;">Debian / Kali Linux</span>  
-- <span style="color:#9ca3af;">Pack Office</span>
+  <h3 style="color:#ffffff;">Infrastructure réseau sécurisée — “Ma Banque”</h3>
+  <ul style="color:#9ca3af; line-height:1.6;">
+    <li>Conception d’une architecture réseau</li>
+    <li>Sécurisation des accès et permissions</li>
+    <li>Analyse des risques</li>
+  </ul>
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
+  <h3 style="color:#ffffff;">Analyse réseau (Wireshark)</h3>
+  <ul style="color:#9ca3af; line-height:1.6;">
+    <li>Capture et analyse de paquets</li>
+    <li>Étude des protocoles</li>
+    <li>Détection d’anomalies</li>
+  </ul>
 
-## <span style="color:#ffffff;">Formation</span>
+  <h3 style="color:#ffffff;">Administration système</h3>
+  <ul style="color:#9ca3af; line-height:1.6;">
+    <li>Gestion des utilisateurs et groupes</li>
+    <li>ACL et permissions</li>
+    <li>Déploiement de services</li>
+  </ul>
+</div>
 
-- <span style="color:#ffffff;">BTS SIO — Option SISR (2024–2026)</span>  
-  <span style="color:#9ca3af;">Première année : 2024–2025</span>  
-  <span style="color:#9ca3af;">Deuxième année : 2025–2026</span>  
-
-- <span style="color:#ffffff;">Baccalauréat Scientifique — Mention Assez Bien (2023–2024)</span>  
-  <span style="color:#9ca3af;">Fondation MBELE, Gabon</span>
-
-<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
-
-## <span style="color:#ffffff;">Projets et réalisations</span>
-
-### <span style="color:#ffffff;">Création et sécurisation de l’infrastructure réseau du site “Ma Banque”</span>
-- <span style="color:#9ca3af;">Architecture réseau</span>  
-- <span style="color:#9ca3af;">Sécurisation des accès</span>  
-- <span style="color:#9ca3af;">Gestion des permissions</span>  
-- <span style="color:#9ca3af;">Analyse des risques</span>
-
-### <span style="color:#ffffff;">Analyse d’un flux réseau avec Wireshark</span>
-- <span style="color:#9ca3af;">Capture de paquets</span>  
-- <span style="color:#9ca3af;">Analyse des protocoles</span>  
-- <span style="color:#9ca3af;">Détection d’anomalies</span>
-
-### <span style="color:#ffffff;">Administration système</span>
-- <span style="color:#9ca3af;">Gestion des utilisateurs</span>  
-- <span style="color:#9ca3af;">ACL</span>  
-- <span style="color:#9ca3af;">Déploiement de services</span>
-
-<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
-
-## <span style="color:#ffffff;">Centres d’intérêt</span>
-
-- <span style="color:#9ca3af;">Football</span>  
-- <span style="color:#9ca3af;">Basketball</span>  
-- <span style="color:#9ca3af;">Athlétisme</span>  
-- <span style="color:#9ca3af;">Voyages (Gabon, Suisse, Monaco, Italie)</span>  
-- <span style="color:#9ca3af;">Piano</span>
+<!-- INTERETS -->
+<div style="background:#11151c; padding:20px; border-radius:8px; border:1px solid #1f2937;">
+  <h2 style="color:#3b82f6;">Centres d’intérêt</h2>
+  <p style="color:#9ca3af; line-height:1.6;">
+    Football • Basketball • Athlétisme • Voyages (Gabon, Suisse, Monaco, Italie) • Piano
+  </p>
+</div>
 
 </div>
 
+
+
+🎉 Ton README est maintenant complet, propre, professionnel et visuellement premium.
+Si tu veux :
+- ajouter une bannière graphique en haut,
+- ajouter des badges techniques,
+- créer une version anglaise,
+- ou transformer ce README en CV PDF,
+je peux t’aider à le faire.
